@@ -6,7 +6,7 @@ API 22210 ( nixworks from Mars )
 ##
 ## xxx ( init )
 ## 00000 ( code )
-## init, code ( overlap ) [ a, b, c, d, e, f ]
+## init.code ( overlap ) [ a, b, c, d, e, f ]
 ## _xxxxx ( format )
 ##
 ############### A Unicode Walk ################
@@ -39,7 +39,12 @@ A Walk overlap( 00000 )
   220A
 ..
 
+  8077
+  ..
+  
 
+  9777
+  ..
 
 
 
