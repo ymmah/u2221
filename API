@@ -1,0 +1,52 @@
+API 22210 ( nixworks from Mars )
+
+################ 兵馬俑形式頭 #################
+##
+## PIA22210_hires >> xxx00000_xxxxx 
+##
+## xxx ( init )
+## 00000 ( code )
+##  init, code ( overlap ) [ a, b, c, d, e, f ]
+## _xxxxx ( format )
+##
+############### A Unicode Walk ################
+
+A-Walk ( xxx )
+  PIA 
+  API
+  IAP
+  IPA  | 國際音標
+
+A-Walk ( 00000 )
+  2221 | ∡ , MEASURED ANGLE
+  2220 | ∠ , ANGLE
+
+  7779 | 睹 ( dǔ )  look at, gaze at; observe
+  7780 | 瞀 ( mào ) to look at closely; nearsighted; dim; indistinct vision
+
+A-Walk overlap( 00000 )
+  A222
+  A221
+  A220
+  2A22
+  2A21
+  2A20
+  22A2
+  22A1
+  22A0
+  222A
+  221A
+  220A
+..
+
+
+
+negative space (6543)
+6664
+..
+
+
+
+
+_
+HIRES | ..राम
